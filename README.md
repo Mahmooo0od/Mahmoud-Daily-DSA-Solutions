@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0001-two-sum) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
 | ------- |
