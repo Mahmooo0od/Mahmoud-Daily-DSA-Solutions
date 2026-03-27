@@ -11,6 +11,5 @@ class Solution:
                 if c>1 : 
                     res.extend(str(c))
                 c=1 
-        n_res=len(res)
-        chars[:n_res]=res
-        return n_res
+        chars[:len(res)]=res
+        return len(res)
