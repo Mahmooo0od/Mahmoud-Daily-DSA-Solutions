@@ -12,6 +12,9 @@ class Solution:
             maxx=max(Area,maxx) 
             if height[i]>=height[J] : 
                 J-=1 
+            elif height[i]<height[J]: 
+                i+=1 
             else : 
                 i+=1 
+                J-=1
         return maxx
