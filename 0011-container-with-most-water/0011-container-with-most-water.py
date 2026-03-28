@@ -3,8 +3,7 @@ class Solution:
         if len(height)==0 or len(height)==1 : 
             return 0
 
-        maxx = float('-inf') 
-        Sakln=True 
+        maxx = -1 
         i=0 
         J=len(height)-1 
         while i<J : 
