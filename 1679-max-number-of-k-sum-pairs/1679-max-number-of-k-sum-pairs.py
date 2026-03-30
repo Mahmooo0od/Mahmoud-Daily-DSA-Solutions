@@ -8,7 +8,8 @@ class Solution:
                 Dict[oppo]-=1 
                 c+=1
             else : 
-                Dict[nums[i]]=Dict.get(nums[i],0)+1
+                Dict[nums[i]]=Dict.get(nums[i],0)+1 
+                #Dict.get(Dict[nums[i]],0)+=1
         return c
             
         return c
