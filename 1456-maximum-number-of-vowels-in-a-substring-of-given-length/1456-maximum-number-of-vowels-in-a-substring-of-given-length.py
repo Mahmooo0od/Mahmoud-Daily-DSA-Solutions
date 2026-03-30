@@ -6,10 +6,13 @@ class Solution:
         for J in range(k): 
             if s[J] in v_set : 
                 sums+=1 
-        J=k
+        
+        if sums == k:
+            return k
+            
         maxx=sums 
         i=0 
-        for J in range(J,len(s)) :
+        for J in range(k,len(s)) :
             if s[J] in v_set and s[i] not in v_set : 
                 sums+=1 
                 if sums>maxx : 
