@@ -4,12 +4,10 @@ class Solution:
         n=len(nums) 
         sums = sum(nums[:k])*1.00000 
         J=k
-        Avg=(sums/k)
-        maxx=Avg 
+        maxx=sums 
         while J<n : 
             sums=(sums-nums[i])+nums[J]
-            Avg=(sums/k)
-            maxx=max(Avg,maxx)
+            maxx=max(sums,maxx)
             J+=1
             i+=1
-        return maxx
+        return maxx/k
