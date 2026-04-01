@@ -3,5 +3,5 @@ class Solution:
         Dict={}
         for i in arr : 
             Dict[i]=Dict.get(i,0)+1
-        set1=set(Dict.values())
-        return len(Dict.values())==len(set1)
+            
+        return len(Dict.values())==len(set(Dict.values()))
