@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/2352-equal-row-and-column-pairs) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/2352-equal-row-and-column-pairs) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Math
 |  |
 | ------- |
