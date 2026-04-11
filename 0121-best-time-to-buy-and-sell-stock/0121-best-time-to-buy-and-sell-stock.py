@@ -8,7 +8,6 @@ class Solution:
                 k=prices[J]-prices[i] 
                 if k>maxx :
                     maxx=k 
-                J+=1 
             else : 
                 i=J 
         return maxx
