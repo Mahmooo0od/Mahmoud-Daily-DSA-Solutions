@@ -150,9 +150,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0169-majority-element) |
 ## Backtracking
 |  |
 | ------- |
 | [0306-additive-number](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0306-additive-number) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
