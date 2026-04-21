@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0052-n-queens-ii](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0052-n-queens-ii) |
 | [0306-additive-number](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0306-additive-number) |
 ## Linked List
 |  |
