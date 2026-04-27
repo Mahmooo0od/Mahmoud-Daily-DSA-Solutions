@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0605-can-place-flowers) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0274-h-index) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Sliding Window
@@ -172,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
