@@ -191,4 +191,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/1934-confirmation-rate) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
