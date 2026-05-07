@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/1148-article-views-i) |
 | [1251-average-selling-price](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/1251-average-selling-price) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/1934-confirmation-rate) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
