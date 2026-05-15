@@ -21,7 +21,7 @@ class Solution:
         for _ in range(steps_to_new_tail - 1):
             new_tail = new_tail.next
             
-        new_head = new_tail.next
+        neww_head = new_tail.next
         new_tail.next = None
         
-        return new_head
+        return neww_head
