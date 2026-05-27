@@ -3,7 +3,7 @@ with cte as (select *
                           customer_id ,
                           order_date ,
                           customer_pref_delivery_date ,
-                       Row_Number() over (partition by customer_id order by order_date ) as Rn
+                       Rank() over (partition by customer_id order by order_date ) as Rn
 
               from Delivery )
               where RN=1 )
