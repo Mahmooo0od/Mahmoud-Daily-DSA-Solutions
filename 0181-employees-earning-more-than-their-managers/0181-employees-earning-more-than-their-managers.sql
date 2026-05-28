@@ -1,5 +1,3 @@
 select E.name as Employee
-from Employee E 
-where E.salary> (select salary
-                 from Employee M 
-                 where M.id =E.managerId)
+from Employee E inner join Employee M on M.id=E.managerId
+where E.salary>M.salary
