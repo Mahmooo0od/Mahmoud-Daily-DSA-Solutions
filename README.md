@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/2352-equal-row-and-column-pairs) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Hash Table
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0189-rotate-array) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## String
 |  |
 | ------- |
