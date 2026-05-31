@@ -3,12 +3,12 @@ class Solution:
         ans = float('inf')
 
         for num in nums:
-            total = 0
+            T = 0
 
             while num > 0:
-                total += (num % 10)
+                T += (num % 10)
                 num //= 10
 
-            ans = min(ans, total)
+            ans = min(ans, T)
 
         return ans
