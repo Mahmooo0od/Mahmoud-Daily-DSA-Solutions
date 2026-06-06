@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0035-search-insert-position) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -248,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [3436-find-valid-emails](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/3436-find-valid-emails) |
 | [3465-find-products-with-valid-serial-numbers](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/3465-find-products-with-valid-serial-numbers) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
