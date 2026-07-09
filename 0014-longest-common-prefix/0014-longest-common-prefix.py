@@ -3,11 +3,11 @@ class Solution:
         strs.sort() 
         L=strs[0] 
         R=strs[-1] 
-        anss=""
+        ansss=""
         for i in range(min(len(L),len(R))) :
             if L[i]==R[i] : 
-                anss+=L[i] 
+                ansss+=L[i] 
             else : 
                 break 
-        return anss
+        return ansss
         
