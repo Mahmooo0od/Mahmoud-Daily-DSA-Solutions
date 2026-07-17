@@ -1,16 +1,30 @@
-with ranks as (
-    select student_id, subject, exam_date, score, 
-    dense_rank() over (partition by student_id, subject  order by exam_date) as first_rank,
-    dense_rank() over (partition by student_id, subject  order by exam_date desc) as latest_rank
-    from Scores
+WITH cte AS (
+    SELECT DISTINCT 
+        student_id, 
+        subject, 
+        FIRST_VALUE(score) OVER (
+            PARTITION BY student_id, subject 
+            ORDER BY exam_date 
+            ROWS BETWEEN UNBOUNDED PRECEDING AND UNBOUNDED FOLLOWING
+        ) AS first_score, 
+        LAST_VALUE(score) OVER (
+            PARTITION BY student_id, subject 
+            ORDER BY exam_date 
+            ROWS BETWEEN UNBOUNDED PRECEDING AND UNBOUNDED FOLLOWING
+        ) AS latest_score
+    FROM 
+        Scores
 )
-select f.student_id, f.subject, f.score as first_score, l.score as latest_score 
-from ranks f
-left join ranks l
-    on f.student_id = l.student_id
-    and f.subject = l.subject
-where f.first_rank = 1
-    and l.latest_rank = 1
-    and l.score > f.score
-order by 
-    f.student_id, f.subject
+
+SELECT 
+    student_id,
+    subject,
+    first_score, 
+    latest_score 
+FROM 
+    cte 
+WHERE 
+    latest_score > first_score
+ORDER BY 
+    student_id, 
+    subject;
