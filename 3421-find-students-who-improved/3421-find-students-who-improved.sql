@@ -5,7 +5,6 @@ WITH cte AS (
         FIRST_VALUE(score) OVER (
             PARTITION BY student_id, subject 
             ORDER BY exam_date 
-            ROWS BETWEEN UNBOUNDED PRECEDING AND UNBOUNDED FOLLOWING
         ) AS first_score, 
         LAST_VALUE(score) OVER (
             PARTITION BY student_id, subject 
