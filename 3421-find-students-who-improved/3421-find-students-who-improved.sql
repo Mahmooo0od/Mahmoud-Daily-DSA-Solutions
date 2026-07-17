@@ -6,10 +6,9 @@ WITH cte AS (
             PARTITION BY student_id, subject 
             ORDER BY exam_date 
         ) AS first_score, 
-        LAST_VALUE(score) OVER (
+        FIRST_VALUE(score) OVER (
             PARTITION BY student_id, subject 
-            ORDER BY exam_date 
-            ROWS BETWEEN UNBOUNDED PRECEDING AND UNBOUNDED FOLLOWING
+            ORDER BY exam_date desc
         ) AS latest_score
     FROM 
         Scores
