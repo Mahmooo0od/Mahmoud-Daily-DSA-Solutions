@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-dna-pattern-recognition](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/3475-dna-pattern-recognition) |
 | [3482-analyze-organization-hierarchy](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/3482-analyze-organization-hierarchy) |
 | [3521-find-product-recommendation-pairs](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/3521-find-product-recommendation-pairs) |
+| [3554-find-category-recommendation-pairs](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/3554-find-category-recommendation-pairs) |
 ## Trie
 |  |
 | ------- |
