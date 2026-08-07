@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0443-string-compression) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0274-h-index) |
+| [0295-find-median-from-data-stream](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Sliding Window
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0295-find-median-from-data-stream](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0295-find-median-from-data-stream) |
 ## Merge Sort
 |  |
 | ------- |
@@ -271,4 +274,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0010-regular-expression-matching) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
