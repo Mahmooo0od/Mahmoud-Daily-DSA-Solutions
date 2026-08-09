@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0061-rotate-list) |
 ## Heap (Priority Queue)
 |  |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0010-regular-expression-matching) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 ## Design
 |  |
 | ------- |
