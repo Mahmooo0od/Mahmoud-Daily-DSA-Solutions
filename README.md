@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0242-valid-anagram) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0263-ugly-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -293,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0295-find-median-from-data-stream) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
