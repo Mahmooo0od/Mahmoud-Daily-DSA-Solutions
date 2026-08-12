@@ -3,9 +3,7 @@ class Solution:
         n=len(s) 
         indicator=0 
         c=0 
-        J=0
         for i in range(n-1,-1,-1) : 
-            J+=1
             if s[i]!=' ' :
                 indicator=1 
                 c+=1
