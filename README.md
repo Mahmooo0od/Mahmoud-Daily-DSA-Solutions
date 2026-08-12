@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0189-rotate-array) |
+| [0263-ugly-number](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0263-ugly-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## String
