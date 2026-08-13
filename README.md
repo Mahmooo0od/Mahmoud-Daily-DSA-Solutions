@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0041-first-missing-positive) |
 | [0055-jump-game](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0068-text-justification) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0068-text-justification) |
 | [0151-reverse-words-in-a-string](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0242-valid-anagram) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0068-text-justification) |
 | [2352-equal-row-and-column-pairs](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 ## String Matching
 |  |
