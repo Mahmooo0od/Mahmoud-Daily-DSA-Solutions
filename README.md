@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0068-text-justification) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0334-increasing-triplet-subsequence) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0010-regular-expression-matching) |
+| [0045-jump-game-ii](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
