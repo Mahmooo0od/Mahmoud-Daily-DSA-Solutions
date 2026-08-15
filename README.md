@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0334-increasing-triplet-subsequence) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0605-can-place-flowers](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0724-find-pivot-index) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0242-valid-anagram) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [1207-unique-number-of-occurrences](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0263-ugly-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## String
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0295-find-median-from-data-stream) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Data Stream
 |  |
 | ------- |
@@ -312,4 +316,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0202-happy-number) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
