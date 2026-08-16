@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0013-roman-to-integer) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0041-first-missing-positive](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0202-happy-number) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0058-length-of-last-word](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0068-text-justification) |
 | [0151-reverse-words-in-a-string](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0643-maximum-average-subarray-i](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
