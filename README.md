@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0041-first-missing-positive](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0041-first-missing-positive) |
+| [0076-minimum-window-substring](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0205-isomorphic-strings) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0058-length-of-last-word](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0068-text-justification) |
+| [0076-minimum-window-substring](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0242-valid-anagram) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0076-minimum-window-substring) |
 | [0643-maximum-average-subarray-i](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
