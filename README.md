@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0224-basic-calculator) |
 | [0263-ugly-number](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0263-ugly-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0205-isomorphic-strings) |
+| [0224-basic-calculator](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0242-valid-anagram) |
 | [0306-additive-number](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0306-additive-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0042-trapping-rain-water) |
+| [0224-basic-calculator](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0224-basic-calculator) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0224-basic-calculator](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0224-basic-calculator) |
 ## Design
 |  |
 | ------- |
