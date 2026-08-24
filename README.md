@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0189-rotate-array) |
+| [0212-word-search-ii](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0212-word-search-ii) |
 | [0217-contains-duplicate](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0274-h-index) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0205-isomorphic-strings) |
+| [0212-word-search-ii](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0242-valid-anagram) |
 | [0306-additive-number](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0306-additive-number) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0212-word-search-ii](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0212-word-search-ii) |
 | [2352-equal-row-and-column-pairs](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 ## Simulation
 |  |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0052-n-queens-ii](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0052-n-queens-ii) |
+| [0212-word-search-ii](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0212-word-search-ii) |
 | [0306-additive-number](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0306-additive-number) |
 ## Linked List
 |  |
@@ -318,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0014-longest-common-prefix) |
+| [0212-word-search-ii](https://github.com/Mahmooo0od/Mahmoud-Daily-DSA-Solutions/tree/master/0212-word-search-ii) |
 ## Recursion
 |  |
 | ------- |
